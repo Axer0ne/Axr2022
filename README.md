@@ -2,4 +2,3 @@
 - 👀 I’m interested in System Administration and Cloud Operations
 - 🌱 I’m currently learning Azure and Kubernetes
 - 💞️ I’m looking to collaborate on automations, configurations, deployments
-- 📫 You can reach me at habularman@gmail.com
