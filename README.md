@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Axr2022
+- 👋 Hi, I’m @Axr0ne
 - 👀 I’m interested in System Administration and Cloud Operations
-- 🌱 I’m currently learning Azure and Ansible
+- 🌱 I’m currently learning Linux administration and Entra
 - 💞️ I’m looking to collaborate on automations, configurations, deployments
